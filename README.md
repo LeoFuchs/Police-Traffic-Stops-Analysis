@@ -8,7 +8,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/LeoFuchs/Police-Traffic-Stops-Analysis?style=social">
 </p>
 
-Esta analise foi realizada durante a realização do curso _[Analyzing Police Activity with pandas](https://learn.datacamp.com/courses/analyzing-police-activity-with-pandas)_ fornecido pelo DataCamp.
+Esta **[análise](https://nbviewer.jupyter.org/github/LeoFuchs/Police-Traffic-Stops-Analysis/blob/master/Analisando%20a%20Atividade%20Policial.ipynb)** foi realizada durante a realização do curso _[Analyzing Police Activity with pandas](https://learn.datacamp.com/courses/analyzing-police-activity-with-pandas)_ fornecido pelo DataCamp.
 
 O conjunto de dados usado é fornecido pelo _[Stanford Open Policing Project](https://openpolicing.stanford.edu/)_ e representa as paradas de trânsito dos policiais nos Estados Unidos no Estado de Rhode Island durante os anos de 2005 - 2015. Cada linha neste conjunto de dados representa a parada realizada por algum policial de algum condutor de veículo.
 
