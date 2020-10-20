@@ -1,4 +1,13 @@
-## Analisando a Atividade Policial
+<h1 align="center">
+    Análise da Atividade Policial em Rhode Island durante os anos de 2005 e 2015
+</h1> 
+
+<p align="center">
+    <img alt="Repository Size" src="https://img.shields.io/github/repo-size/LeoFuchs/Police-Traffic-Stops-Analysis">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/LeoFuchs/Police-Traffic-Stops-Analysis">
+    <img alt="Made By" src="https://img.shields.io/badge/Made%20By-Leonardo%20Fuchs-orange">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/LeoFuchs/Police-Traffic-Stops-Analysis?style=social">
+</p>
 
 Esta analise foi realizada durante a realização do curso _[Analyzing Police Activity with pandas](https://learn.datacamp.com/courses/analyzing-police-activity-with-pandas)_ fornecido pelo DataCamp.
 
